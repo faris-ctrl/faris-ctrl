@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤖​, I'm Faris Gouda</h1>
 <h3 align="center">Ethical Hacker | Future Cybersecurity Pro</h3>
-<img align="right" alt="Coding" Width="400" src="https://imgs.search.brave.com/5Mj33Hh8eEQg4xptz-eDPZCFRAvsYJ2YQiriUZuh6dc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhOM2hqTVRBeU4z/QnBiemhvTldVMmRY/WmpaR05tYkRsemRt/VnZOMmgwZFdGNU1Y/ZDBiMlExYnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMTNIZ3dHc1hG/MGFpR1kvMjAwLmdp/Zg.gif">
+<img align="right" alt="Coding" Width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhiNXIxZmthdGV1Z2diemFyeXJuaXhyOThzeGZsN2Npa2gxbjVmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif">
 
 
 <img align="right" alt="Hacker Gif" width="300" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" />
