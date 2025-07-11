@@ -6,10 +6,10 @@
 <img align="right" alt="Hacker Gif" width="300" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" />
 
 - 📚 Currently studying **Computer Science @ EJUST**  
-- 🚀 Focused on: **Ethical Hacking**, **Penetration Testing**, and **CTFs**  
+-  Focused on: **Ethical Hacking**, **Penetration Testing**, and **CTFs**  
 
-- 💻 Documenting my journey through **Hack The Box**, **TryHackMe**, and real labs  
-- 🧠 Motto: _"No one clapped. No one helped. I did it anyway.."_  
+-  Documenting my journey through **Hack The Box**, **TryHackMe**, and real labs  
+-  Motto: _"No one clapped. No one helped. I did it anyway.."_  
 
 **📫 Reach me:**  
 <p align="center">
